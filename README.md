@@ -1,3 +1,5 @@
-ChrisplayzWii's betawii github/archives official website!
+TheWiiArchivists betawii github/archives official website alternative to browsing the github repos!
 
-UPDATE 4/2/2025: THE WEBSITE IS BEING WORKED ON AND WILL BE RELEASED BY THE END OF THE DAY!
+
+Coming Soon...
+(current page is a placeholder..)
